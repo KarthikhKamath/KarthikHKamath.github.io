@@ -33,3 +33,7 @@ links.forEach(links => {
     cursor.classList.remove("grow")
     })
 
+    let spinnerWrapper = document.querySelector('.spinner-wrapper');
+    window.addEventListener('load',function(){
+    spinnerWrapper.style.opacity = 0;    
+    });
