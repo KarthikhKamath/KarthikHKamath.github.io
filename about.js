@@ -35,5 +35,5 @@ links.forEach(links => {
 
     let spinnerWrapper = document.querySelector('.spinner-wrapper');
     window.addEventListener('load',function(){
-    spinnerWrapper.style.opacity = 0;    
+    spinnerWrapper.style.display = none;    
     });
