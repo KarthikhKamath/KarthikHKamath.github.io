@@ -137,10 +137,10 @@ a{
     align-items: center;
 }
 .spinner{
-    width: 10em;
-    height: 10em;
-    border-top: 1em solid rgb(255, 255, 255);
-    border-right: 1em solid transparent;
+    width: 5em;
+    height: 5em;
+    border-top: 2px solid rgb(255, 255, 255);
+    border-right: 2px solid transparent;
     animation: spinner 0.8s linear infinite;
     border-radius: 50%;
     margin: auto;
