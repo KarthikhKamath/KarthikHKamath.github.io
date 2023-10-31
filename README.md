@@ -1,7 +1,6 @@
-# Karthik H Kamath
-Full Stack Developer | Coder
 
-![EEG Band Discovery](/karthik.jpeg)
+# Full Stack Developer | Coder
+
 [Github](https://github.com/KarthikhKamath), [LinkedIn](https://www.linkedin.com/in/karthik-h-kamath-251839198/), Phone : +91 8792124529, Email : harowar2002@gmail.com
 #### Technical Skills:
 - ##### Languages : C++, JavaScript
