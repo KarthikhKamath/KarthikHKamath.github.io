@@ -6,7 +6,7 @@
 - ##### Developer Tools: VS Code, Canva, Git and Github
 
 ## Education
-- B.tech, Electronics and Communication | Manipal Institute of Technology ( _2020_ - _2024_)								       		
+- B.tech, Electronics and Communication | Manipal Institute of Technology (_2020_ - _2024_)								       		
 - Class 12, 94.17%	| Vidyodaya Pre University, Udupi (_2020_)	 			        		
 - Class 10, 91% | Christ School Manipal (_2018_)
 
