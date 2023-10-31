@@ -14,8 +14,8 @@
 **Front-end devleoper @  Adeo Distinctions & Dimensions Private Limited  (_Feb 2023 - July 2023_)**
 - Crafted visually compelling pages, enhancing the website’s overall aesthetic appeal.
 - Revamped navigation and optimized information architecture for an intuitive user experience.
-- Engineered dynamic, interactive websites with HTML, CSS, JavaScript, ReactJs, and CSS
-frameworks, while gaining valuable insights into effective team collaboration.
+- Engineered dynamic, interactive websites with **HTML, CSS, JavaScript, ReactJs, and CSS
+frameworks**, while gaining valuable insights into effective team collaboration.
 - Handle the API’s and created a responsive front-end.
 
 
