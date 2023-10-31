@@ -1,5 +1,4 @@
 title : Karthik H Kamath
-# logo : /assets/img/karthik.jpeg
-#description: MERN Stack Developer
-show_downloads : true
+logo : /karthik.jpeg
+description: MERN Stack Developer
 theme : jekyll-theme-minimal
