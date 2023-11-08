@@ -37,11 +37,11 @@ performance of the application.
 - Implemented **CRUD** functionality and **RESTful API** integration, allowing seamless manipulation of book data and ensuring efficient database interaction.
 - Used **MongoDb, ExpressJs, ReactJs, NodeJs**
 
-### News Website | API [Live Link](https://kartnews.netlify.app/), [Github](https://github.com/KarthikhKamath/newsApp)
+### Movie Website | API [Live Link](https://kartmovie.netlify.app/), [Github](https://github.com/KarthikhKamath/Movies-app)
 
-- Dynamic news website fetching news from an **API** using **HTML, CSS, and Javascript**.
-- Implemented responsiveness to ensure cross-device compatibility
-- Used Javascript events, CSS animation properties and Js DOM manipulation.
+- • Created a dynamic Movie Application using **ReactJS** and **CSS**, integrating **API** forreal-time movie data retrieval and providing users with an engaging browsing experience.
+- Promoted component reusability for consistent UI elements and enhancing code maintainability.
+- Integrated the **TMDB API** to dynamically fetch and display movie data, showcasing ability to work with external data sources in web development projects
 
 ### Bubble Game | JS [Live Link](https://kartnews.netlify.app/), [Github](https://github.com/KarthikhKamath/newsApp)
 
