@@ -43,7 +43,7 @@ performance of the application.
 - Promoted component reusability for consistent UI elements and enhancing code maintainability.
 - Integrated the **TMDB API** to dynamically fetch and display movie data, showcasing ability to work with external data sources in web development projects
 
-### Bubble Game | JS [Live Link](https://kartnews.netlify.app/), [Github](https://github.com/KarthikhKamath/newsApp)
+### Bubble Game | JS [Live Link](https://kartbubblegame.netlify.app/), [Github](https://github.com/KarthikhKamath/bubble-game)
 
 - An engaging bubble game with **HTML, CSS, and Javascript**.
 - Incorporated logic using JS, and employed advanced event bubbling techniques to ensure precise user interaction..
