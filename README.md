@@ -39,7 +39,7 @@ performance of the application.
 
 ### Movie Website | API [Live Link](https://kartmovie.netlify.app/), [Github](https://github.com/KarthikhKamath/Movies-app)
 
-- • Created a dynamic Movie Application using **ReactJS** and **CSS**, integrating **API** forreal-time movie data retrieval and providing users with an engaging browsing experience.
+- Created a dynamic Movie Application using **ReactJS** and **CSS**, integrating **API** forreal-time movie data retrieval and providing users with an engaging browsing experience.
 - Promoted component reusability for consistent UI elements and enhancing code maintainability.
 - Integrated the **TMDB API** to dynamically fetch and display movie data, showcasing ability to work with external data sources in web development projects
 
