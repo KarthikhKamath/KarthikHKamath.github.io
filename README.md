@@ -13,6 +13,12 @@
 - Class 10, 91% | Christ School Manipal (_2018_)
 
 ## Work Experience
+**Software Engineer Intern @  CODEZYNG  (_Jan 2024 - Present_)**
+- Actively contributing to the development of secure payment integration using **Stripe js** and **NestJs** on the backend.
+- Gaining hands-on experience with **RevenueCat** to address potential future requirements for in-app purchases in upcoming projects.
+- Quickly adapting to new technologies and methodologies, ensuring efficient and effective problem-solving during the internship
+
+## Work Experience
 **Front-end devleoper @  Adeo Distinctions & Dimensions Private Limited  (_Feb 2023 - July 2023_)**
 - Crafted visually compelling pages, enhancing the website’s overall aesthetic appeal.
 - Revamped navigation and optimized information architecture for an intuitive user experience.
