@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.f220cd5b.css",
-    "main.js": "/static/js/main.d16ec987.js",
+    "main.js": "/static/js/main.c1386be0.js",
     "static/media/user.png": "/static/media/user.3f92687a9bc9495f5c4a.png",
     "static/media/writify.png": "/static/media/writify.b13199b37c1ee26be40d.png",
     "static/media/movieTime.png": "/static/media/movieTime.ad774b772abb75166dd0.png",
     "static/media/landing.png": "/static/media/landing.bc74cb4fe13f5d9bf549.png",
+    "static/media/timetable.png": "/static/media/timetable.1627b2cf343e1407013d.png",
     "static/media/calculator.png": "/static/media/calculator.8fc4ab7ebfea2bbafb51.png",
     "static/media/skills.png": "/static/media/skills.cb3bf7cf516f515b6f5c.png",
     "static/media/gamezo.png": "/static/media/gamezo.98e6342ab5b85d835ce3.png",
@@ -23,10 +24,10 @@
     "static/media/tic.png": "/static/media/tic.09b4c9773f160ac583c3.png",
     "index.html": "/index.html",
     "main.f220cd5b.css.map": "/static/css/main.f220cd5b.css.map",
-    "main.d16ec987.js.map": "/static/js/main.d16ec987.js.map"
+    "main.c1386be0.js.map": "/static/js/main.c1386be0.js.map"
   },
   "entrypoints": [
     "static/css/main.f220cd5b.css",
-    "static/js/main.d16ec987.js"
+    "static/js/main.c1386be0.js"
   ]
 }
